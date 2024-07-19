@@ -26,4 +26,3 @@ Run "Main.py"
 ___________________
 Use Arrow Keys ←↑↓→
 To Move
-
