@@ -26,9 +26,4 @@ Run "Main.py"
 ___________________
 Use Arrow Keys ←↑↓→
 To Move
-____________
-⚠️ If You Have A Issue So **NOT** Report 
-In Issues Instead Message My Twitter 
-https://twitter.com/Trollgegod4ever
-
 
